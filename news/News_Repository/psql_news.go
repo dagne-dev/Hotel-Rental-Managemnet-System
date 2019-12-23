@@ -1,2 +1,0 @@
-
-package News_Repository
