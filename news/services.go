@@ -1,6 +1,6 @@
-package News
+package news
 
-import "github.com/getme04/original/entity"
+import "github.com/getme04/Hotel-Rental-Managemnet-System/entity"
 
 // NewsService specifies News menu News News_Services
 type NewsService interface {
