@@ -5,7 +5,7 @@ import (
 	"github.com/lab/dbLab/entity"
 )
 
-// CommentService implements menu.CommentService interface
+// CommentService implements CommentService interface
 type CommentService struct {
 	commentRepo comment.CommentRepository
 }
