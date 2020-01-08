@@ -6,7 +6,7 @@ import (
 	"github.com/lab/dbLab/entity"
 )
 
-// CommentGormRepo implements menu.CommentRepository interface
+// CommentGormRepo implements CommentRepository interface
 type CommentGormRepo struct {
 	conn *gorm.DB
 }
