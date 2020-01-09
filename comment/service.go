@@ -1,6 +1,6 @@
 package comment
 
-import "github.com/lab/dbLab/entity"
+import "github.com/dagne_dev/Hotel-Rental-Managemnet-System/entity"
 
 // CommentService specifies customer comment related service
 type CommentService interface {
