@@ -1,6 +1,6 @@
 package comment
 
-import "github.com/lab/dbLab/entity"
+import "github.com/dagne_dev/Hotel-Rental-Managemnet-System/entity"
 
 // CommentRepository specifies customer comment related database operations
 type CommentRepository interface {
