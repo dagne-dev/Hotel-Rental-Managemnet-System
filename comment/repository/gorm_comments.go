@@ -2,8 +2,8 @@ package repository
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/lab/dbLab/comment"
-	"github.com/lab/dbLab/entity"
+	"github.com/dagne_dev/Hotel-Rental-Managemnet-System/comment"
+	"github.com/dagne_dev/Hotel-Rental-Managemnet-System/entity"
 )
 
 // CommentGormRepo implements CommentRepository interface
